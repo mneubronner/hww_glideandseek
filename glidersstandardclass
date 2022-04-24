@@ -1,0 +1,44 @@
+[
+{
+        "name": "Wolfgang Böhme",
+        "cn": "II",
+        "glider": "LS 4",
+        "comp": "Standard",
+        "flarm": [""]
+    },
+ {
+        "name": "Dieter Ries",
+        "cn": "KM",
+        "glider": "PIK 20E",
+        "comp": "Standard",
+        "flarm": [""]
+    },
+ {
+        "name": "Marvin Drost",
+        "cn": "VV",
+        "glider": "Mini Nimbus",
+        "comp": "Standard",
+        "flarm": ["DDBC33"]
+    },
+ {
+        "name": "wolfgang Fischer",
+        "cn": "WF",
+        "glider": "DG 300",
+        "comp": "Standard",
+        "flarm": ["DD9E9F"]
+    },
+  {
+        "name": "Jaroslav Misun",
+        "cn": "ZT",
+        "glider": "Discus b",
+        "comp": "Standard",
+        "flarm": ["4B4BC9"]
+    },
+  {
+        "name": "Roman Misun",
+        "cn": "ZW",
+        "glider": "Discus 2c",
+        "comp": "Standard",
+        "flarm": ["4B5223"]
+    }
+]
