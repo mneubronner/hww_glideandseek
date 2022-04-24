@@ -1,4 +1,3 @@
-[
 {
         "name": "Florian Ruckert",
         "cn": "38",
@@ -26,5 +25,4 @@
         "glider": "Standard Cirrus",
         "comp": "Club Klasse",
         "flarm": ["DD520A"]
-    },
-]
+    }
