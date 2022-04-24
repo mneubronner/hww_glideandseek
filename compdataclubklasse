@@ -6,6 +6,7 @@
             "short": "Club Klasse",
             "task": "https://www.soaringspot.com/en_gb/55-internationaler-hotzenwaldwettbewerb-2018-hutten-2018/results/18-meter-klasse",
             "colour": "#0074D9"
-        },
+        }
+        ],
     "gliders": "https://raw.githubusercontent.com/mneubronner/hww_glideandseek/main/glidersclubclass"
 }
