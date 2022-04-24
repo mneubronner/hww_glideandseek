@@ -1,19 +1,9 @@
 [
-    {
-        "comp": "15m-2020",
-        "name": "John Smith",
-        "cn": "123",
-        "glider": "AN-225",
-        "hc": true,
-        "flarm": ["FD217B"],
-        "status": "Landed out",
-        "launch": "12:35",
-        "start": "13:01",
-        "finish": "15:26",
-        "landout": {
-            "time": "15:28",
-            "pos": [lat, lng],
-            "w3w": "what.three.words"
-        }
+{
+        "name": "Heli Kopter",
+        "cn": "HC",
+        "glider": "MilMi26",
+        "comp": "18m Klasse",
+        "flarm": ["381D3A"]
     }
 ]
