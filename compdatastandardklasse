@@ -5,7 +5,7 @@
             "name": "57. Internationaler Hotzenwaldwettbewerb 2022",
             "short": "Standard Klasse",
             "task": "https://www.soaringspot.com/en_gb/54-internationaler-hotzenwaldwettbewerb-2017/tasks/mixed-open/task-8-on-2017-06-10",
-            "colour": "#0A57F1"
+            "colour": "#AAAAAA"
         }
         ],
     "gliders": "https://raw.githubusercontent.com/mneubronner/hww_glideandseek/main/glidersstandardclass"
