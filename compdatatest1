@@ -1,10 +1,10 @@
 {
     "comps": [
         {
-            "id": "15m-2020",
-            "name": "UK 15m National Championships 2020",
-            "short": "15m Class",
-            "task": "https://www.soaringspot.com/en_gb/55-internationaler-hotzenwaldwettbewerb-2018-hutten-2018/tasks/18-meter-klasse/task-6-on-2018-05-25",
+            "id": "HW22",
+            "name": "57. Internationaler Hotzenwaldwettbewerb 2022",
+            "short": "18m Klasse",
+            "task": "https://www.soaringspot.com/en_gb/55-internationaler-hotzenwaldwettbewerb-2018-hutten-2018/results/18-meter-klasse",
             "colour": "#0074D9"
         }
     ],
