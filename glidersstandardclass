@@ -40,5 +40,12 @@
         "glider": "Discus 2c",
         "comp": "Standard",
         "flarm": ["4B5223"]
+    },
+    {
+        "name": "Harry Adam",
+        "cn": "SM",
+        "glider": "Arcus M",
+        "comp": "Standard",
+        "flarm": ["DF14F2"]
     }
 ]
