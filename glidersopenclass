@@ -1,0 +1,121 @@
+[
+{
+        "name": "Philipp Haver & Calvin Schwarz",
+        "cn": "32",
+        "glider": "ASG 32 el,
+        "comp": "Offene Klasse",
+        "flarm": ["D0069E"]
+    },
+ {
+        "name": "Dieter Merkle",
+        "cn": "1Y",
+        "glider": "Ventus a WL",
+        "comp": "Offene Klasse",
+        "flarm": [""]
+    },
+ {
+        "name": "Stefan Kessler & Peter Kluge",
+        "cn": "7up",
+        "glider": "Duo Discus xT",
+        "comp": "Offene Klasse",
+        "flarm": ["DD9AAE"]
+    },
+ {
+        "name": "Peter Scholz",
+        "cn": "AB",
+        "glider": "Antares 20e",
+        "comp": "Offene Klasse",
+        "flarm": ["3EDB51"]
+    },
+ {
+        "name": "Abi Kiessling",
+        "cn": "AKi",
+        "glider": "Ventus 2cM",
+        "comp": "Offene Klasse",
+        "flarm": ["3E6924"]
+    },
+ {
+        "name": "Pascal Kaiser & Team",
+        "cn": "BW1",
+        "glider": "Duo Discus x",
+        "comp": "Offene Klasse",
+        "flarm": [""]
+    },
+ {
+        "name": "Matthias Dick",
+        "cn": "HP",
+        "glider": "Nimbus 3 25.5m",
+        "comp": "Offene Klasse",
+        "flarm": ["DDBD49"]
+    },
+ {
+        "name": "Johannes Drost",
+        "cn": "K1",
+        "glider": "Discus 2c FES",
+        "comp": "Offene Klasse",
+        "flarm": ["DDBC33"]
+    },
+ {
+        "name": "Rudolf Schmillen",
+        "cn": "MC",
+        "glider": "Discus 2cT",
+        "comp": "Offene Klasse",
+        "flarm": [" 3E67BA"]
+    },
+ {
+        "name": "Thorsten Bosch & Justin Bauer-Chen",
+        "cn": "ME",
+        "glider": "Duo Discus XLT",
+        "comp": "Offene Klasse",
+        "flarm": ["3E6A60"]
+    },
+ {
+        "name": "Stephan Beck",
+        "cn": "MM",
+        "glider": "Ventus 2cxT",
+        "comp": "Offene Klasse",
+        "flarm": ["3ED0F5"]
+    },
+ {
+        "name": "Martin Sautter",
+        "cn": "MU",
+        "glider": "Ventus 3T S",
+        "comp": "Offene Klasse",
+        "flarm": ["6E67CC"]
+    },
+ {
+        "name": "Sven Lissel",
+        "cn": "OS",
+        "glider": "Ventus 2cxM",
+        "comp": "Offene Klasse",
+        "flarm": ["3EC50A"]
+    },
+ {
+        "name": "Klaus Brombacher, Elo Umlauf",
+        "cn": "SM",
+        "glider": "Arcus M",
+        "comp": "Offene Klasse",
+        "flarm": ["DF14F2"]
+    },
+ {
+        "name": "Dietmar Möller",
+        "cn": "TW",
+        "glider": "Discus 2c FES",
+        "comp": "Offene Klasse",
+        "flarm": ["DF1219"]
+    },
+ {
+        "name": "Martin Westermann & Tobias Burkhard",
+        "cn": "W2",
+        "glider": "Duo Discus xT",
+        "comp": "Offene Klasse",
+        "flarm": ["D0042E"]
+    },
+ {
+        "name": "Marcus Neubronner",
+        "cn": "6V",
+        "glider": "Ventus 2cM",
+        "comp": "Offene Klasse",
+        "flarm": ["3E64D7"]
+    }
+]
