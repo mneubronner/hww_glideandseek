@@ -13,15 +13,8 @@
         "comp": "Standard",
         "flarm": [""]
     },
- {
-        "name": "Marvin Drost",
-        "cn": "VV",
-        "glider": "Mini Nimbus",
-        "comp": "Standard",
-        "flarm": ["DDBC33"]
-    },
- {
-        "name": "wolfgang Fischer",
+  {
+        "name": "Wolfgang Fischer",
         "cn": "WF",
         "glider": "DG 300",
         "comp": "Standard",
@@ -41,11 +34,46 @@
         "comp": "Standard",
         "flarm": ["4B5223"]
     },
+       {
+        "name": "Florian Ruckert",
+        "cn": "38",
+        "glider": "K6",
+        "comp": "Club Klasse",
+        "flarm": ["3E711A"]
+    },
+ {
+        "name": "Bernhard Kiefer, Martina Kiefer",
+        "cn": "61",
+        "glider": "Bergfalke 4",
+        "comp": "Club Klasse",
+        "flarm": ["DD9C5A"]
+    },
+ {
+        "name": "Christian Dyroff",
+        "cn": "2M",
+        "glider": "DG 300",
+        "comp": "Club Klasse",
+        "flarm": [""]
+    },
     {
-        "name": "Harry Adam",
-        "cn": "SM",
-        "glider": "Arcus M",
+        "name": "Alexander Bleitner",
+        "cn": "PU",
+        "glider": "LS a",
         "comp": "Standard",
-        "flarm": ["DF14F2"]
+        "flarm": ["DDDB37"]
+    },
+    {
+        "name": "Helmut Westermann",
+        "cn": "30",
+        "glider": "Discus 2b",
+        "comp": "Standard",
+        "flarm": ["3EED35"]
+    },
+ {
+        "name": "Wilfried Dinger",
+        "cn": "FD",
+        "glider": "Standard Cirrus",
+        "comp": "Club Klasse",
+        "flarm": ["DD520A"]
     }
 ]
