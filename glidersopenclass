@@ -1,6 +1,6 @@
 [
 {
-        "name": "Philipp Haver & Calvin Schwarz",
+        "name": "Philipp Haver, Calvin Schwarz",
         "cn": "32",
         "glider": "ASG 32 el,
         "comp": "Offene Klasse",
@@ -14,7 +14,7 @@
         "flarm": [""]
     },
  {
-        "name": "Stefan Kessler & Peter Kluge",
+        "name": "Stefan Kessler, Peter Kluge",
         "cn": "7up",
         "glider": "Duo Discus xT",
         "comp": "Offene Klasse",
@@ -35,7 +35,7 @@
         "flarm": ["3E6924"]
     },
  {
-        "name": "Pascal Kaiser & Team",
+        "name": "Pascal Kaiser, Team",
         "cn": "BW1",
         "glider": "Duo Discus x",
         "comp": "Offene Klasse",
@@ -63,7 +63,7 @@
         "flarm": [" 3E67BA"]
     },
  {
-        "name": "Thorsten Bosch & Justin Bauer-Chen",
+        "name": "Thorsten Bosch, Justin Bauer-Chen",
         "cn": "ME",
         "glider": "Duo Discus XLT",
         "comp": "Offene Klasse",
@@ -105,7 +105,7 @@
         "flarm": ["DF1219"]
     },
  {
-        "name": "Martin Westermann & Tobias Burkhard",
+        "name": "Martin Westermann, Tobias Burkhard",
         "cn": "W2",
         "glider": "Duo Discus xT",
         "comp": "Offene Klasse",
