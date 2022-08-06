@@ -12,6 +12,13 @@
         "glider": "Ventus 3M",
         "comp": "D-KTAG",
         "flarm": ["3ECE22"]
-    }   
+    },
+ {
+        "name": "Baptiste Innocent",
+        "cn": "31",
+        "glider": "ASH31 Mi",
+        "comp": "D-KWEB",
+        "flarm": ["DDEDD1"]
+    }    
     
 ]
