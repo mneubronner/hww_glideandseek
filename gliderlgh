@@ -138,5 +138,12 @@
         "glider": "Ventus 3M",
         "comp": "Puimoisson",
         "flarm": ["3ECE22"]
+    },
+{
+        "name": "Michael Sommer",
+        "cn": "WB",
+        "glider": "EB29DR",
+        "comp": "D-KWOB",
+        "flarm": ["DDED2C"]
     }
 ]
