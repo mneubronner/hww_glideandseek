@@ -4,48 +4,48 @@
 "cn": "W1",
 "glider": "LS4",
 "comp": "Standardklasse (Index 102-109)",
-"flarm": ["DDDEE3"],
+"flarm": ["DDDEE3"]
 },
 {
 "name": "Wolfgang Böhme",
 "cn": "II",
 "glider": "LS 4",
 "comp": "Standardklasse (Index 102-109)",
-"flarm": ["DDB193"],
+"flarm": ["DDB193"]
 },
 {
 "name": "Wolfgang Fischer",
 "cn": "WF",
 "glider": "DG 300 WL",
 "comp": "Standardklasse (Index 102-109)",
-"flarm": ["DD9E9F"],
+"flarm": ["DD9E9F"]
 },
 {
 "name": "Andreas Ole Marskar",
 "cn": "TT",
 "glider": "LS8",
 "comp": "Standardklasse (Index 102-109)",
-"flarm": ["DF235B"],
+"flarm": ["DF235B"]
 },
 {
 "name": "Dieter Merkle",
 "cn": "1Y",
 "glider": "Ventus a 15m",
 "comp": "Standardklasse (Index 102-109)",
-"flarm": ["DF0C39"],
+"flarm": ["DF0C39"]
 },
 {
 "name": "Jaroslav Misun",
 "cn": "ZT",
 "glider": "Discus b",
 "comp": "Standardklasse (Index 102-109)",
-"flarm": ["4B4BC9"],
+"flarm": ["4B4BC9"]
 },
 {
 "name": "Dieter Ries",
 "cn": "KM",
 "glider": "PIK 20E",
 "comp": "Standardklasse (Index 102-109)",
-"flarm": ["DDAD83"],
+"flarm": ["DDAD83"]
 }
 ]
