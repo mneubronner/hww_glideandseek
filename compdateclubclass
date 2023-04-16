@@ -5,7 +5,7 @@
             "name": "58. Internationaler Hotzenwaldwettbewerb 2023",
             "short": "Club- und Newcomer Klasse",
             "task": "https://www.soaringspot.com/en_gb/57-internationaler-hotzenwaldwettbewerb-hutten-2022/results/standard",
-            "colour": "#F2750B"
+            "colour": "#0074D9"
         }
         ],
     "gliders": "https://raw.githubusercontent.com/mneubronner/hww_glideandseek/main/gliderclubclass"
