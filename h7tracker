@@ -1,23 +1,23 @@
 [
 {
         "name": "Marcus Neubronner",
-        "cn": "D-KDJR | H7",
-        "glider": "Ventus 2cM",
-        "comp": "Victoria",
+        "cn": "H7",
+        "glider": "Ventus 2cM | D-KDJR",
+        "comp": "Unicorn",
         "flarm": ["3E64D7"]
     },
  {
         "name": "Tore & Annika Gräber",
         "cn": "N2",
-        "glider": "Ventus 3M",
-        "comp": "D-KTAG",
+        "glider": "Ventus 3M | D-KTAG",
+        "comp": "Unicorn",
         "flarm": ["3ECE22"]
     },
  {
         "name": "Baptiste Innocent",
         "cn": "31",
-        "glider": "ASH31 Mi",
-        "comp": "D-KWEB",
+        "glider": "ASH31 Mi | D-KWEB",
+        "comp": "Unicorn",
         "flarm": ["DDEDD1"]
     }    
     
