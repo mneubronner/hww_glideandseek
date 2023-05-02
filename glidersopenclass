@@ -105,6 +105,13 @@
 		"flarm": ["DF20ED"]
 	},
 	{
+		"name": "Jürgen Riel",
+		"cn": "FS",
+		"glider": "DG800 B",
+		"comp": "Offene Klasse (Index >109)",
+		"flarm": ["DF2390"]
+	},
+	{
 		"name": "Marcus Neubronner",
 		"cn": "6V",
 		"glider": "Ventus 2cM",
