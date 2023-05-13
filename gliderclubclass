@@ -25,7 +25,14 @@
 "cn": "38",
 "glider": "Ka6 CR",
 "comp": "Club und Newcomer Klasse",
-"flarm": ["ED0EFF"]
+"flarm": ["D02639"]
+},
+{
+"name": "Markus Schweiger",
+"cn": "ISS",
+"glider": "L-Spatz 55",
+"comp": "Club und Newcomer Klasse",
+"flarm": ["DD9B2F"]
 },
 {
 "name": "Oliver Wolfinger",
