@@ -1,65 +1,65 @@
 [
-{
-"name": "Magnus Becke",
-"cn": "W1",
-"glider": "LS4",
-"comp": "Standardklasse (Index 102-109)",
-"flarm": ["DDDEE3"]
-},
-{
-"name": "Gionata Donati",
-"cn": "LL",
-"glider": "LS3",
-"comp": "Standardklasse",
-"flarm": ["3EF31C"]
-},
-{
-"name": "Wolfgang Böhme",
-"cn": "II",
-"glider": "LS 4",
-"comp": "Standardklasse (Index 102-109)",
-"flarm": ["DDB193"]
-},
-{
-"name": "Wolfgang Fischer",
-"cn": "WF",
-"glider": "DG 300 WL",
-"comp": "Standardklasse (Index 102-109)",
-"flarm": ["DD9E9F"]
-},
-{
-"name": "Andreas Ole Marskar",
-"cn": "TT",
-"glider": "LS8",
-"comp": "Standardklasse (Index 102-109)",
-"flarm": ["DF235B"]
-},
-{
-"name": "Dieter Merkle",
-"cn": "1Y",
-"glider": "Ventus a 15m",
-"comp": "Standardklasse (Index 102-109)",
-"flarm": ["DF0C39"]
-},
-{
-"name": "Jaroslav Misun",
-"cn": "ZT",
-"glider": "Discus b",
-"comp": "Standardklasse (Index 102-109)",
-"flarm": ["4B4BC9"]
-},
-{
-"name": "Jonas Keplinger",
-"cn": "6H",
-"glider": "Dicsus b",
-"comp": "Club und Newcomer Klasse",
-"flarm": ["DDDF09"]
-},
-{
-"name": "Dieter Ries",
-"cn": "KM",
-"glider": "PIK 20E",
-"comp": "Standardklasse (Index 102-109)",
-"flarm": ["DDAD83"]
-}
+    {
+        "name": "Magnus Becke",
+        "cn": "BY",
+        "glider": "Ls8",
+        "comp": "Standardklasse (Index 102-109)",
+        "flarm": [
+            "D00ED4"
+        ]
+    },
+    {
+        "name": "Wolfgang Böhme",
+        "cn": "4L",
+        "glider": "LS4",
+        "comp": "Standardklasse (Index 102-109)",
+        "flarm": [
+            "DDB193"
+        ]
+    },
+    {
+        "name": "Sven Lissel",
+        "cn": "BW2",
+        "glider": "Discus 2b",
+        "comp": "Standardklasse (Index 102-109)",
+        "flarm": [
+            "DF0470"
+        ]
+    },
+    {
+        "name": "Jaroslav Misun",
+        "cn": "ZT",
+        "glider": "Discus B",
+        "comp": "Standardklasse (Index 102-109)",
+        "flarm": [
+            "4b4bc9"
+        ]
+    },
+    {
+        "name": "Dieter Ries",
+        "cn": "KM",
+        "glider": "PIK20E",
+        "comp": "Standardklasse (Index 102-109)",
+        "flarm": [
+            "(Leer)"
+        ]
+    },
+    {
+        "name": "Nils Ruckert",
+        "cn": "F7",
+        "glider": "LS 4",
+        "comp": "Standardklasse (Index 102-109)",
+        "flarm": [
+            "DDE2FD"
+        ]
+    },
+    {
+        "name": "Fischer Wolfgang",
+        "cn": "WF",
+        "glider": "DG 300 WL",
+        "comp": "Standardklasse (Index 102-109)",
+        "flarm": [
+            "DD9E9F"
+        ]
+    }
 ]
