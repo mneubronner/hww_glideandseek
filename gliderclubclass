@@ -1,17 +1,137 @@
 [
-{	"name": "Kiefer Bernhard",	"cn": "61",	"glider": "Bergfalke 4",	"comp": "Club- und Newcomer Klasse",	"flarm": ["DD9C5A"]	},
-{	"name": "Sebastian Diderich",	"cn": "30",	"glider": "SZD 36a Cobra 15",	"comp": "Club- und Newcomer Klasse",	"flarm": [""]	},
-{	"name": "Jacek Gawlik",	"cn": "IE",	"glider": "ASW24",	"comp": "Club- und Newcomer Klasse",	"flarm": ["D01996"]	},
-{	"name": "Marzelin Groß",	"cn": "(Leer)",	"glider": "Ask 13",	"comp": "Club- und Newcomer Klasse",	"flarm": [""]	},
-{	"name": "Pirmin Groß",	"cn": "(Leer)",	"glider": "K6 oder K7",	"comp": "Club- und Newcomer Klasse",	"flarm": [""]	},
-{	"name": "Rositsa Ivanova",	"cn": "RI",	"glider": "LS4a",	"comp": "Club- und Newcomer Klasse",	"flarm": ["3EE602"]	},
-{	"name": "Andreas Kamp",	"cn": "(Leer)",	"glider": "Ka6 CR",	"comp": "Club- und Newcomer Klasse",	"flarm": ["DDDDDD"]	},
-{	"name": "Grzegorz Kokot",	"cn": "GK",	"glider": "Jantar Std 2",	"comp": "Club- und Newcomer Klasse",	"flarm": ["D00BF9"]	},
-{	"name": "Christoph-Friedemann Kölle",	"cn": "(Leer)",	"glider": "K7",	"comp": "Club- und Newcomer Klasse",	"flarm": [""]},
-{	"name": "Timo Mayr",	"cn": "T1",	"glider": "Ka6 CR",	"comp": "Club- und Newcomer Klasse",	"flarm": ["DDB26A"]	},
-{	"name": "Wolfgang Messerschmidt",	"cn": "8H",	"glider": "LS1-F",	"comp": "Club- und Newcomer Klasse",	"flarm": ["DDFB08"]	},
-{	"name": "Carsten Möller",	"cn": "68",	"glider": "Ka6",	"comp": "Club- und Newcomer Klasse",	"flarm": ["DF0A96"]	},
-{	"name": "Florian Ruckert",	"cn": "38",	"glider": "Ka6 CR",	"comp": "Club- und Newcomer Klasse",	"flarm": ["D02639"]	},
-{	"name": "Markus Schweiger",	"cn": "ISS",	"glider": "L-Spatz 55",	"comp": "Club- und Newcomer Klasse",	"flarm": ["DD9B2F"]	},
-{	"name": "Oliver Wolfinger",	"cn": "OLI",	"glider": "Ka6",	"comp": "Club- und Newcomer Klasse",	"flarm": ["3F0235"]	}
+    {
+        "name": "Kiefer Bernhard",
+        "cn": "61",
+        "glider": "Bergfalke 4",
+        "comp": "Club- und Newcomer Klasse",
+        "flarm": [
+            "DD9C5A"
+        ]
+    },
+    {
+        "name": "Sebastian Diderich",
+        "cn": "30",
+        "glider": "SZD 36a Cobra 15",
+        "comp": "Club- und Newcomer Klasse",
+        "flarm": [
+            ""
+        ]
+    },
+    {
+        "name": "Jacek Gawlik",
+        "cn": "IE",
+        "glider": "ASW24",
+        "comp": "Club- und Newcomer Klasse",
+        "flarm": [
+            "D01996"
+        ]
+    },
+    {
+        "name": "Marzelin Groß",
+        "cn": "(Leer)",
+        "glider": "Ask 13",
+        "comp": "Club- und Newcomer Klasse",
+        "flarm": [
+            ""
+        ]
+    },
+    {
+        "name": "Pirmin Groß",
+        "cn": "(Leer)",
+        "glider": "K6 oder K7",
+        "comp": "Club- und Newcomer Klasse",
+        "flarm": [
+            ""
+        ]
+    },
+    {
+        "name": "Rositsa Ivanova",
+        "cn": "RI",
+        "glider": "LS4a",
+        "comp": "Club- und Newcomer Klasse",
+        "flarm": [
+            "3EE602"
+        ]
+    },
+    {
+        "name": "Andreas Kamp",
+        "cn": "(Leer)",
+        "glider": "Ka6 CR",
+        "comp": "Club- und Newcomer Klasse",
+        "flarm": [
+            "DDDDDD"
+        ]
+    },
+    {
+        "name": "Grzegorz Kokot",
+        "cn": "GK",
+        "glider": "Jantar Std 2",
+        "comp": "Club- und Newcomer Klasse",
+        "flarm": [
+            "D00BF9"
+        ]
+    },
+    {
+        "name": "Christoph-Friedemann Kölle",
+        "cn": "(Leer)",
+        "glider": "K7",
+        "comp": "Club- und Newcomer Klasse",
+        "flarm": [
+            ""
+        ]
+    },
+    {
+        "name": "Timo Mayr",
+        "cn": "T1",
+        "glider": "Ka6 CR",
+        "comp": "Club- und Newcomer Klasse",
+        "flarm": [
+            "DDB26A"
+        ]
+    },
+    {
+        "name": "Wolfgang Messerschmidt",
+        "cn": "8H",
+        "glider": "LS1-F",
+        "comp": "Club- und Newcomer Klasse",
+        "flarm": [
+            "DDFB08"
+        ]
+    },
+    {
+        "name": "Carsten Möller",
+        "cn": "68",
+        "glider": "Ka6",
+        "comp": "Club- und Newcomer Klasse",
+        "flarm": [
+            "DF0A96"
+        ]
+    },
+    {
+        "name": "Florian Ruckert",
+        "cn": "38",
+        "glider": "Ka6 CR",
+        "comp": "Club- und Newcomer Klasse",
+        "flarm": [
+            "D02639"
+        ]
+    },
+    {
+        "name": "Markus Schweiger",
+        "cn": "ISS",
+        "glider": "L-Spatz 55",
+        "comp": "Club- und Newcomer Klasse",
+        "flarm": [
+            "DD9B2F"
+        ]
+    },
+    {
+        "name": "Oliver Wolfinger",
+        "cn": "OLI",
+        "glider": "Ka6",
+        "comp": "Club- und Newcomer Klasse",
+        "flarm": [
+            "3F0235"
+        ]
+    }
 ]
