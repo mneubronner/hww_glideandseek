@@ -1,65 +1,100 @@
 [
     {
-        "name": "Magnus Becke",
-        "cn": "BY",
-        "glider": "Ls8",
-        "comp": "Standardklasse (Index 102-109)",
-        "flarm": [
-            "D00ED4"
-        ]
-    },
-    {
-        "name": "Wolfgang Böhme",
-        "cn": "4L",
-        "glider": "LS4",
-        "comp": "Standardklasse (Index 102-109)",
-        "flarm": [
-            "DDB193"
-        ]
-    },
-    {
-        "name": "Sven Lissel",
-        "cn": "BW2",
-        "glider": "Discus 2b",
-        "comp": "Standardklasse (Index 102-109)",
-        "flarm": [
-            "DF0470"
-        ]
-    },
-    {
-        "name": "Jaroslav Misun",
-        "cn": "ZT",
-        "glider": "Discus B",
-        "comp": "Standardklasse (Index 102-109)",
-        "flarm": [
-            "4b4bc9"
-        ]
-    },
-    {
-        "name": "Dieter Ries",
-        "cn": "KM",
-        "glider": "PIK20E",
-        "comp": "Standardklasse (Index 102-109)",
-        "flarm": [
-            "(Leer)"
-        ]
-    },
-    {
-        "name": "Nils Ruckert",
-        "cn": "F7",
-        "glider": "LS 4",
-        "comp": "Standardklasse (Index 102-109)",
-        "flarm": [
-            "DDE2FD"
-        ]
-    },
-    {
-        "name": "Fischer Wolfgang",
-        "cn": "WF",
-        "glider": "DG 300 WL",
-        "comp": "Standardklasse (Index 102-109)",
-        "flarm": [
-            "DD9E9F"
-        ]
-    }
+"name": "Andreas Ole Marskar",
+"cn": "T",
+"glider": "LS8",
+"comp": "Standardklasse (Index 102-109) / Standard Class",
+"flarm": ["DF235B"]
+},
+{
+"name": "Dieter Ries",
+"cn": "KM",
+"glider": "PIK20E",
+"comp": "Standardklasse (Index 102-109) / Standard Class",
+"flarm": ["DDAD83"]
+},
+{
+"name": "Grzegorz Kokot",
+"cn": "GK",
+"glider": "Discus B",
+"comp": "Standardklasse (Index 102-109) / Standard Class",
+"flarm": ["D00BF9"]
+},
+{
+"name": "Jacek Gawlik",
+"cn": "IE",
+"glider": "ASW24",
+"comp": "Standardklasse (Index 102-109) / Standard Class",
+"flarm": ["D01996"]
+},
+{
+"name": "Jarno Brouwers",
+"cn": "G4",
+"glider": "ASW24 WL",
+"comp": "Standardklasse (Index 102-109) / Standard Class",
+"flarm": ["3EEA38"]
+},
+{
+"name": "Magnus Becke",
+"cn": "W1",
+"glider": "LS4",
+"comp": "Standardklasse (Index 102-109) / Standard Class",
+"flarm": ["DDDEE3"]
+},
+{
+"name": "Marvin Drost",
+"cn": "VV",
+"glider": "Mini Nimbus",
+"comp": "Standardklasse (Index 102-109) / Standard Class",
+"flarm": ["DDBC33"]
+},
+{
+"name": "Marzelin Groß",
+"cn": "PP",
+"glider": "Ls4b",
+"comp": "Standardklasse (Index 102-109) / Standard Class",
+"flarm": ["DD0091"]
+},
+{
+"name": "Moritz Habermann",
+"cn": "33",
+"glider": "fs33",
+"comp": "Standardklasse (Index 102-109) / Standard Class",
+"flarm": ["DDAEC8"]
+},
+{
+"name": "Nicolas Kierdorf",
+"cn": "FB",
+"glider": "DG 400 17m",
+"comp": "Standardklasse (Index 102-109) / Standard Class",
+"flarm": ["DDA56D"]
+},
+{
+"name": "Nils Ruckert",
+"cn": "F7",
+"glider": "LS4",
+"comp": "Standardklasse (Index 102-109) / Standard Class",
+"flarm": ["DDE2FD"]
+},
+{
+"name": "Rositsa Ivanova",
+"cn": "RI",
+"glider": "LS4a",
+"comp": "Standardklasse (Index 102-109) / Standard Class",
+"flarm": ["3EE602"]
+},
+{
+"name": "Timo Fuchs",
+"cn": "XA",
+"glider": "Discus bT",
+"comp": "Standardklasse (Index 102-109) / Standard Class",
+"flarm": ["DF038B"]
+},
+{
+"name": "Wolfgang Böhme",
+"cn": "4L",
+"glider": "LS4",
+"comp": "Standardklasse (Index 102-109) / Standard Class",
+"flarm": ["DDB193"]
+}
 ]
