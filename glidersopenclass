@@ -1,155 +1,156 @@
 [
-    {
-        "name": "Stephan Beck, Matt & Matt",
-        "cn": "WF",
-        "glider": "Duo Discus XLT",
-        "comp": "Offene Klasse (Index >109)",
-        "flarm": [
-            "0C4033"
-        ]
-    },
-    {
-        "name": "Alexander Bleitner",
-        "cn": "PU",
-        "glider": "LS-6a",
-        "comp": "Offene Klasse (Index >109)",
-        "flarm": [
-            "DDDB37"
-        ]
-    },
-    {
-        "name": "Thomas Brosi",
-        "cn": "2Z",
-        "glider": "JS3-RES",
-        "comp": "Offene Klasse (Index >109)",
-        "flarm": [
-            "D01D12"
-        ]
-    },
-    {
-        "name": "Johannes Marvin Drost",
-        "cn": "K1",
-        "glider": "Discus 2c FES",
-        "comp": "Offene Klasse (Index >109)",
-        "flarm": [
-            "D00A27"
-        ]
-    },
-    {
-        "name": "Bernhard Egger",
-        "cn": "WE",
-        "glider": "Ventus 2cxt",
-        "comp": "Offene Klasse (Index >109)",
-        "flarm": [
-            "DDE01D"
-        ]
-    },
-    {
-        "name": "Frieder Göltenbott",
-        "cn": "HW",
-        "glider": "Arcus M",
-        "comp": "Offene Klasse (Index >109)",
-        "flarm": [
-            "DDE9F2"
-        ]
-    },
-    {
-        "name": "Philipp Haver",
-        "cn": "32",
-        "glider": "ASG 32 el",
-        "comp": "Offene Klasse (Index >109)",
-        "flarm": [
-            "D0069E"
-        ]
-    },
-    {
-        "name": "Stefan Kessler",
-        "cn": "7up",
-        "glider": "Duo Discus T",
-        "comp": "Offene Klasse (Index >109)",
-        "flarm": [
-            "DD9AAE"
-        ]
-    },
-    {
-        "name": "Günter Kulhay",
-        "cn": "WG",
-        "glider": "Antares 20E",
-        "comp": "Offene Klasse (Index >109)",
-        "flarm": [
-            "DF14F0"
-        ]
-    },
-    {
-        "name": "Helmut Mennel",
-        "cn": "ZT",
-        "glider": "Antares 18T",
-        "comp": "Offene Klasse (Index >109)",
-        "flarm": [
-            "3EC207"
-        ]
-    },
-    {
-        "name": "Dieter Merkle",
-        "cn": "1Y",
-        "glider": "Ventus a 16.6",
-        "comp": "Offene Klasse (Index >109)",
-        "flarm": [
-            "DF0C39"
-        ]
-    },
-    {
-        "name": "Marcus Neubronner",
-        "cn": "6V",
-        "glider": "Ventus 2cM",
-        "comp": "Offene Klasse (Index >109)",
-        "flarm": [
-            "3E64D7"
-        ]
-    },
-    {
-        "name": "Jürgen Riel",
-        "cn": "FS",
-        "glider": "DG-800B",
-        "comp": "Offene Klasse (Index >109)",
-        "flarm": [
-            "DF2390"
-        ]
-    },
-    {
-        "name": "Sebastian Rönz",
-        "cn": "CF",
-        "glider": "DG-600/18",
-        "comp": "Offene Klasse (Index >109)",
-        "flarm": [
-            "DF1869"
-        ]
-    },
-    {
-        "name": "Martin Sautter",
-        "cn": "MU",
-        "glider": "Ventus 3T",
-        "comp": "Offene Klasse (Index >109)",
-        "flarm": [
-            "3E67CC"
-        ]
-    },
-    {
-        "name": "Peter Scholz",
-        "cn": "AB",
-        "glider": "Antares 20m",
-        "comp": "Offene Klasse (Index >109)",
-        "flarm": [
-            "3EDB51"
-        ]
-    },
-    {
-        "name": "Felix Wolf",
-        "cn": "K5",
-        "glider": "Duo Discus WL",
-        "comp": "Offene Klasse (Index >109)",
-        "flarm": [
-            "DF20ED"
-        ]
-    }
+{
+"name": "Dieter Merkle",
+"cn": "1Y",
+"glider": "Ventus a 16.6",
+"comp": "Offene Klasse (Index >109) / Open Class",
+"flarm": ["3E5D2B"]
+},
+{
+"name": "Dietmar Möller",
+"cn": "TW",
+"glider": "Discus 2c FES 18m",
+"comp": "Offene Klasse (Index >109) / Open Class",
+"flarm": ["DF1219"]
+},
+{
+"name": "Eric Neubronner",
+"cn": "K2",
+"glider": "Arcus T",
+"comp": "Offene Klasse (Index >109) / Open Class",
+"flarm": ["DF10B7"]
+},
+{
+"name": "Felix Wolf",
+"cn": "K1",
+"glider": "Discus 2cFES",
+"comp": "Offene Klasse (Index >109) / Open Class",
+"flarm": ["D00A27"]
+},
+{
+"name": "Günter Kulhay",
+"cn": "WG",
+"glider": "Antares 20E",
+"comp": "Offene Klasse (Index >109) / Open Class",
+"flarm": ["DF14F0"]
+},
+{
+"name": "Helmut Mennel",
+"cn": "ZT",
+"glider": "Antares 18T",
+"comp": "Offene Klasse (Index >109) / Open Class",
+"flarm": ["3EC207"]
+},
+{
+"name": "Jonas Keplinger, Timo Mayr",
+"cn": "K5",
+"glider": "Duo Discus",
+"comp": "Offene Klasse (Index >109) / Open Class",
+"flarm": ["DF20ED"]
+},
+{
+"name": "Juergen Riel",
+"cn": "CF",
+"glider": "DG-800B",
+"comp": "Offene Klasse (Index >109) / Open Class",
+"flarm": ["DF2390"]
+},
+{
+"name": "Jürgen Kartnaller",
+"cn": "TE",
+"glider": "JS 3 RES",
+"comp": "Offene Klasse (Index >109) / Open Class",
+"flarm": ["D026F1"]
+},
+{
+"name": "Marcus Neubronner",
+"cn": "6V",
+"glider": "Ventus 2cM",
+"comp": "Offene Klasse (Index >109) / Open Class",
+"flarm": ["3E64D7"]
+},
+{
+"name": "Martin Sautter",
+"cn": "MU",
+"glider": "Ventus 3E",
+"comp": "Offene Klasse (Index >109) / Open Class",
+"flarm": ["3E67CC"]
+},
+{
+"name": "Nick Schäfer, Dieter Slangen",
+"cn": "MD",
+"glider": "Arcus T",
+"comp": "Offene Klasse (Index >109) / Open Class",
+"flarm": ["3E5D2B"]
+},
+{
+"name": "Patrick Misun, Jaro Misun",
+"cn": "RB",
+"glider": "Arcus T",
+"comp": "Offene Klasse (Index >109) / Open Class",
+"flarm": ["4b4ec1"]
+},
+{
+"name": "Peter Scholz",
+"cn": "AB",
+"glider": "Antares 20E",
+"comp": "Offene Klasse (Index >109) / Open Class",
+"flarm": ["3EDB51"]
+},
+{
+"name": "Philipp Haver",
+"cn": "32",
+"glider": "ASG 32 el",
+"comp": "Offene Klasse (Index >109) / Open Class",
+"flarm": ["D0069E"]
+},
+{
+"name": "Philipp Luyken",
+"cn": "DZ",
+"glider": "LS6c-18",
+"comp": "Offene Klasse (Index >109) / Open Class",
+"flarm": ["D008CB"]
+},
+{
+"name": "Ron Sanders",
+"cn": "GPS",
+"glider": "JS1B",
+"comp": "Offene Klasse (Index >109) / Open Class",
+"flarm": [""]
+},
+{
+"name": "Rudolf Schmillen",
+"cn": "MC",
+"glider": "Discus 2cT",
+"comp": "Offene Klasse (Index >109) / Open Class",
+"flarm": ["3E67BA"]
+},
+{
+"name": "Stefan Kessler",
+"cn": "7up",
+"glider": "Duo Discus T",
+"comp": "Offene Klasse (Index >109) / Open Class",
+"flarm": ["DD9AAE"]
+},
+{
+"name": "Stephan Beck",
+"cn": "MM",
+"glider": "Ventus 2cxT",
+"comp": "Offene Klasse (Index >109) / Open Class",
+"flarm": ["3ED0F5"]
+},
+{
+"name": "Thomas Brosi",
+"cn": "2Z",
+"glider": "JS 3 18 RES",
+"comp": "Offene Klasse (Index >109) / Open Class",
+"flarm": ["D01D12"]
+},
+{
+"name": "Thorsten Bosch",
+"cn": "ME",
+"glider": "Duo Discus XLT",
+"comp": "Offene Klasse (Index >109) / Open Class",
+"flarm": ["3E6A60"]
+}
 ]
