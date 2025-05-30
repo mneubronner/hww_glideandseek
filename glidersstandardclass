@@ -8,10 +8,10 @@
 },
 {
 "name": "Grzegorz Kokot",
-"cn": "GK",
+"cn": "DW",
 "glider": "Discus B",
 "comp": "Standardklasse (Index 102-109) / Standard Class",
-"flarm": ["D00BF9"]
+"flarm": ["4B5075"]
 },
 {
 "name": "Jacek Gawlik",
@@ -68,13 +68,6 @@
 "glider": "LS4",
 "comp": "Standardklasse (Index 102-109) / Standard Class",
 "flarm": ["DDE2FD"]
-},
-{
-"name": "Rositsa Ivanova",
-"cn": "RI",
-"glider": "LS4a",
-"comp": "Standardklasse (Index 102-109) / Standard Class",
-"flarm": ["3EE602"]
 },
 {
 "name": "Timo Fuchs",
