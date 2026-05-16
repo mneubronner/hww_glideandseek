@@ -1,87 +1,38 @@
 [
 {
-"name": "Dietmar Möller",
+"name": "Dietmar *Take Wings* Möller",
 "cn": "TW",
-"glider": "Discus 2c FES 18m",
+"glider": "Discus 2c FES",
 "comp": "Offene Klasse (Index >109) / Open Class",
 "flarm": ["DF1219"]
 },
 {
-"name": "Eric Neubronner, Rainer Rauch",
-"cn": "K2",
-"glider": "Arcus T",
-"comp": "Offene Klasse (Index >109) / Open Class",
-"flarm": ["DF10B7"]
-},
-{
 "name": "Felix Wolf",
 "cn": "K1",
-"glider": "Discus 2cFES",
+"glider": "Discus 2c FES",
 "comp": "Offene Klasse (Index >109) / Open Class",
 "flarm": ["D00A27"]
 },
 {
-"name": "Helmut Mennel",
-"cn": "ZT",
-"glider": "Antares 18T",
-"comp": "Offene Klasse (Index >109) / Open Class",
-"flarm": ["3EC207"]
-},
-{
-"name": "Jonas Keplinger, Timo Mayr",
+"name": "Jonas Keplinger, Florian Glass",
 "cn": "K5",
-"glider": "Duo Discus",
+"glider": "Duo Discus WL",
 "comp": "Offene Klasse (Index >109) / Open Class",
 "flarm": ["DF20ED"]
 },
 {
-"name": "Juergen Riel",
-"cn": "CF",
-"glider": "DG-800B",
-"comp": "Offene Klasse (Index >109) / Open Class",
-"flarm": ["DF2390"]
-},
-{
-"name": "Jürgen Kartnaller",
-"cn": "TE",
-"glider": "JS 3 RES",
-"comp": "Offene Klasse (Index >109) / Open Class",
-"flarm": ["D026F1"]
-},
-{
-"name": "Marcus Neubronner",
-"cn": "6V",
-"glider": "Ventus 2cM",
-"comp": "Offene Klasse (Index >109) / Open Class",
-"flarm": ["3E64D7"]
-},
-{
 "name": "Martin Sautter",
-"cn": "UM",
-"glider": "Discus 2cT",
+"cn": "MU",
+"glider": "Ventus 3E",
 "comp": "Offene Klasse (Index >109) / Open Class",
-"flarm": ["3E7324"]
-},
-{
-"name": "Nick Schäfer, Dieter Slangen",
-"cn": "MD",
-"glider": "Arcus T",
-"comp": "Offene Klasse (Index >109) / Open Class",
-"flarm": ["3E5D2B"]
+"flarm": ["3E67CC"]
 },
 {
 "name": "Patrick Misun, Jaro Misun",
-"cn": "RB",
-"glider": "Arcus T",
+"cn": "ZW",
+"glider": "Discus 2c",
 "comp": "Offene Klasse (Index >109) / Open Class",
-"flarm": ["4b4ec1"]
-},
-{
-"name": "Sven Lissel",
-"cn": "OS",
-"glider": "Ventus 2cxM",
-"comp": "Offene Klasse (Index >109) / Open Class",
-"flarm": ["3EC50A"]
+"flarm": ["4B5223"]
 },
 {
 "name": "Peter Scholz",
@@ -91,9 +42,9 @@
 "flarm": ["3EDB51"]
 },
 {
-"name": "Philipp Haver, Nils Ruckert",
+"name": "Philipp Haver",
 "cn": "32",
-"glider": "ASG 32 el",
+"glider": "ASG 32 EL",
 "comp": "Offene Klasse (Index >109) / Open Class",
 "flarm": ["D0069E"]
 },
@@ -107,9 +58,9 @@
 {
 "name": "Ron Sanders",
 "cn": "GPS",
-"glider": "JS1B",
+"glider": "JS1b",
 "comp": "Offene Klasse (Index >109) / Open Class",
-"flarm": [""]
+"flarm": ["009181"]
 },
 {
 "name": "Rudolf Schmillen",
@@ -126,38 +77,87 @@
 "flarm": ["DD9AAE"]
 },
 {
-"name": "Stephan Beck, Hubert Matt, Martin Matt",
+"name": "Stephan Beck, Martin Matt, Hubert Matt",
 "cn": "WF",
 "glider": "Duo Discus XLT",
 "comp": "Offene Klasse (Index >109) / Open Class",
 "flarm": ["0C4033"]
 },
 {
-"name": "Thomas Brosi",
+"name": "Ramona Riesterer, Thomas Brosi",
 "cn": "2Z",
-"glider": "JS 3 18 RES",
+"glider": "JS3 RES",
 "comp": "Offene Klasse (Index >109) / Open Class",
 "flarm": ["D01D12"]
 },
 {
-"name": "Thorsten Bosch",
+"name": "Thorsten Bosch, Alexandro Feuerstein",
+"cn": "MD",
+"glider": "Arcus T",
+"comp": "Offene Klasse (Index >109) / Open Class",
+"flarm": ["3E5D2B"]
+},
+{
+"name": "Alexander Bleitner",
+"cn": "PU",
+"glider": "LS6-a",
+"comp": "Offene Klasse (Index >109) / Open Class",
+"flarm": ["DDDB37"]
+},
+{
+"name": "Bernhard Egger",
+"cn": "WE",
+"glider": "Ventus 2cxt",
+"comp": "Offene Klasse (Index >109) / Open Class",
+"flarm": ["DDE01D"]
+},
+{
+"name": "Björn Biehler, Helmut Westermann",
 "cn": "ME",
 "glider": "Duo Discus XLT",
 "comp": "Offene Klasse (Index >109) / Open Class",
 "flarm": ["3E6A60"]
 },
 {
-"name": "Horst von Schaewen",
-"cn": "CM",
-"glider": "Ventus 2cM",
+"name": "Dieter Slangen",
+"cn": "A2",
+"glider": "DG 808 c",
 "comp": "Offene Klasse (Index >109) / Open Class",
-"flarm": ["DDE01B"]
+"flarm": ["3e64cd"]
 },
 {
-"name": "VINCENT GENOD Daniel",
-"cn": "JO",
-"glider": "AS 33 Es",
+"name": "Harry Tanner",
+"cn": "HY",
+"glider": "Ventus 3M",
 "comp": "Offene Klasse (Index >109) / Open Class",
-"flarm": ["396FFB"]
+"flarm": ["4B5026"]
+},
+{
+"name": "Jürgen F. Riel",
+"cn": "CF",
+"glider": "DG 800",
+"comp": "Offene Klasse (Index >109) / Open Class",
+"flarm": ["DF2390"]
+},
+{
+"name": "Nils Koster",
+"cn": "K",
+"glider": "As33",
+"comp": "Offene Klasse (Index >109) / Open Class",
+"flarm": ["D01607"]
+},
+{
+"name": "Sassan Mottaghian-Milani",
+"cn": "S7",
+"glider": "ASH31 Mi",
+"comp": "Offene Klasse (Index >109) / Open Class",
+"flarm": ["3EC407"]
+},
+{
+"name": "Steffen Weniger",
+"cn": "FE",
+"glider": "Nimbus 4M",
+"comp": "Offene Klasse (Index >109) / Open Class",
+"flarm": ["3E78FF"]
 }
 ]
