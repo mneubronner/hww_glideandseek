@@ -1,19 +1,5 @@
 [
 {
-"name": "Dieter Ries",
-"cn": "KM",
-"glider": "PIK20E",
-"comp": "Standardklasse (Index 102-109) / Standard Class",
-"flarm": ["DDAD83"]
-},
-{
-"name": "Grzegorz Kokot",
-"cn": "DW",
-"glider": "Discus B",
-"comp": "Standardklasse (Index 102-109) / Standard Class",
-"flarm": ["4B5075"]
-},
-{
 "name": "Jacek Gawlik",
 "cn": "IE",
 "glider": "ASW24",
@@ -21,53 +7,11 @@
 "flarm": ["D01996"]
 },
 {
-"name": "Jarno Brouwers",
-"cn": "G4",
-"glider": "ASW24 WL",
+"name": "Johanna Steil",
+"cn": "AM1",
+"glider": "LS8",
 "comp": "Standardklasse (Index 102-109) / Standard Class",
-"flarm": ["3EEA38"]
-},
-{
-"name": "Magnus Becke",
-"cn": "W1",
-"glider": "LS4",
-"comp": "Standardklasse (Index 102-109) / Standard Class",
-"flarm": ["DDDEE3"]
-},
-{
-"name": "Marvin Drost",
-"cn": "VV",
-"glider": "Mini Nimbus",
-"comp": "Standardklasse (Index 102-109) / Standard Class",
-"flarm": ["DDBC33"]
-},
-{
-"name": "Marzelin Groß",
-"cn": "PP",
-"glider": "Ls4b",
-"comp": "Standardklasse (Index 102-109) / Standard Class",
-"flarm": ["DD0091"]
-},
-{
-"name": "Moritz Habermann",
-"cn": "33",
-"glider": "fs33",
-"comp": "Standardklasse (Index 102-109) / Standard Class",
-"flarm": ["DDAEC8"]
-},
-{
-"name": "Nicolas Kierdorf",
-"cn": "FB",
-"glider": "DG 400 17m",
-"comp": "Standardklasse (Index 102-109) / Standard Class",
-"flarm": ["DDA56D"]
-},
-{
-"name": "Nils Ruckert",
-"cn": "F7",
-"glider": "LS4",
-"comp": "Standardklasse (Index 102-109) / Standard Class",
-"flarm": ["DDE2FD"]
+"flarm": ["D004A4"]
 },
 {
 "name": "Timo Fuchs",
@@ -82,5 +26,26 @@
 "glider": "LS4",
 "comp": "Standardklasse (Index 102-109) / Standard Class",
 "flarm": ["DDB193"]
+},
+{
+"name": "Anna Weniger",
+"cn": "M4",
+"glider": "Discus b",
+"comp": "Standardklasse (Index 102-109) / Standard Class",
+"flarm": ["DD9BC8"]
+},
+{
+"name": "Philipp Wittwer",
+"cn": "ZL",
+"glider": "LS8",
+"comp": "Standardklasse (Index 102-109) / Standard Class",
+"flarm": ["440326"]
+},
+{
+"name": "Philipp Wollschlegel",
+"cn": "i8",
+"glider": "LS 7 WL",
+"comp": "Standardklasse (Index 102-109) / Standard Class",
+"flarm": ["4B4C6B"]
 }
 ]
