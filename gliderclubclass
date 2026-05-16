@@ -1,5 +1,5 @@
 [
-    {
+{
 "name": "Bernhard Kiefer",
 "cn": "61",
 "glider": "Bergfalke 4",
@@ -7,39 +7,18 @@
 "flarm": ["DD9C5A"]
 },
 {
-"name": "Rositsa Ivanova",
-"cn": "RI",
-"glider": "LS4a",
-"comp": "Standardklasse (Index 102-109) / Standard Class",
-"flarm": ["3EE602"]
-},
-{
-"name": "Christian Zelger",
-"cn": "",
-"glider": "LS8",
-"comp": "Club- und Newcomer Klasse / Club Class",
-"flarm": ["440346"]
-},
-{
 "name": "Florian Ruckert",
 "cn": "38",
-"glider": "Ka6Cr",
+"glider": "Ka6 CR",
 "comp": "Club- und Newcomer Klasse / Club Class",
 "flarm": ["D02639"]
 },
 {
-"name": "Johanna Steil",
-"cn": "BW",
-"glider": "ASW19",
+"name": "Jarno Brouwers",
+"cn": "JB",
+"glider": "Club Libelle 205",
 "comp": "Club- und Newcomer Klasse / Club Class",
-"flarm": ["DD8669"]
-},
-{
-"name": "Lars Meinhardt",
-"cn": "KH",
-"glider": "LS8",
-"comp": "Club- und Newcomer Klasse / Club Class",
-"flarm": ["DD8D3E"]
+"flarm": ["DDD9EE"]
 },
 {
 "name": "Martin Spiegel",
@@ -49,24 +28,38 @@
 "flarm": ["DDB2CA"]
 },
 {
-"name": "Matthias Dewey",
-"cn": "KF",
-"glider": "Ls4b",
+"name": "Timo Mayr",
+"cn": "AMG",
+"glider": "SF27M-A",
 "comp": "Club- und Newcomer Klasse / Club Class",
-"flarm": ["DDB05F"]
+"flarm": ["DDB0CB"]
 },
 {
-"name": "Oliver Wolfinger",
-"cn": "OLI",
-"glider": "Ka6",
+"name": "Christoph Matkowski",
+"cn": "MA",
+"glider": "mini LAK17-FES",
 "comp": "Club- und Newcomer Klasse / Club Class",
-"flarm": ["3F0235"]
+"flarm": ["D01623"]
 },
 {
-"name": "Ana Zloteanu, Uli  Schwenk",
-"cn": "06",
-"glider": "ASK 13",
+"name": "Dominic Ott",
+"cn": "1T",
+"glider": "Ka 6",
 "comp": "Club- und Newcomer Klasse / Club Class",
-"flarm": ["0D0806"]
+"flarm": ["DDB26A"]
+},
+{
+"name": "Frieder Schmelz",
+"cn": "Uli",
+"glider": "ASK13",
+"comp": "Club- und Newcomer Klasse / Club Class",
+"flarm": [""]
+},
+{
+"name": "Jan Heider",
+"cn": "GW",
+"glider": "ASW20",
+"comp": "Club- und Newcomer Klasse / Club Class",
+"flarm": ["D01EEA"]
 }
 ]
